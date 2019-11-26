@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+.Broadway {
+  background-image: url("E:/Newprojects/broadway/resources/images/the-flatiron-building.png");
+  background-size: auto;
+  color: white;
+}
+
+ ul {
+   font-size: 18px;
+   line-height: 1.8;
+   text-align: center;
+   list-style-type: none;
+ }
+ h1 {
+   font-size: 70px;
+   font-weight: bold;
+ }
+a {
+  color: white;
+}
