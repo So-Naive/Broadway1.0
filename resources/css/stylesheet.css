@@ -6,7 +6,6 @@ body {
   background-image:
   url("E:/Newprojects/broadway/resources/images/the-flatiron-building.png");
   background-size: cover;
-  font-size: 18px;
 }
  h1 {
    color: white;
@@ -14,6 +13,7 @@ body {
    font-weight: bold;
  }
 a {
+  font-size: 18px;
   color: white;
 }
 h3 {
@@ -32,5 +32,11 @@ h2 {
   url("E:/Newprojects/broadway/resources/images/the-flatiron-building.png");
   font-weight: bold;
   font-size: 23px;
+  color: white;
+}
+.feet {
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
   color: white;
 }
