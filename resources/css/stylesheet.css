@@ -3,7 +3,8 @@ body {
   font-family: Helvetica;
 }
 .Broadway {
-  background-image: url("E:/Newprojects/broadway/resources/images/the-flatiron-building.png");
+  background-image:
+  url("E:/Newprojects/broadway/resources/images/the-flatiron-building.png");
   background-size: cover;
   font-size: 18px;
 }
@@ -25,4 +26,11 @@ h2 {
 }
 .process {
   font-size: 14px;
+}
+#dny {
+  background-image:
+  url("E:/Newprojects/broadway/resources/images/the-flatiron-building.png");
+  font-weight: bold;
+  font-size: 23px;
+  color: white;
 }
